@@ -1,0 +1,9 @@
+P_FirstCycle = False                    # Первый цикл работы контроллера
+System_Call_Interval    = 100           # Период вызова программы
+System_Project          = 0             # Код проекта
+System_Alarm_Disable    = False         # Отключение сигнализации
+System_Alarm            = False         # Сигнализация
+System_Initialization   = False         # Инициализация
+Stop_All                = False         # Остановка полная
+System_Reset_Links      = False         # Сброс привязок
+Cycle_Time              = 0
